@@ -52,7 +52,7 @@ public final class Wedding {
 
     events.add("Ring Ceremony 7:00 PM 9th March 2019");
     events.add("Sangeet 7:00 PM onwards 9th March 2019");
-    events.add("Haldi 4:00 PM 10th March 2019");
+    events.add("Haldi 11:00 AM 10th March 2019");
     events.add("Wedding 8:00 PM 10th March 2019");
     return events;
   }
@@ -94,7 +94,7 @@ public final class Wedding {
 
   void bindThemForever(){
     while (true){
-      "Jeet and Medha grow old togather no fucks given about exceptions and errors in life."
+      "Jeet and Medha grow old together no fucks given about exceptions and errors in life."
     }
   }
   
